@@ -1,0 +1,16 @@
+@font-face {
+ 	font-family: pusab;
+    src: url('Pusab.otf')
+}
+
+
+.divTime{
+	
+	 font-family: pusab;
+
+
+}
+
+body{
+	background-image: url("fundo.png");
+}
